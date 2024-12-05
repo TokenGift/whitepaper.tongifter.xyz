@@ -1,2 +1,1 @@
-# whitepaper.tongifter.xyz
-https://whitepaper.tongifter.xyz
+https://docs.tongifter.xyz
