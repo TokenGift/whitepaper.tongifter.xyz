@@ -22,11 +22,14 @@ export default defineConfig({
         text: 'WHITEPAPER',
         items: [
           { text: '🎉 Overview', link: '/overview' },
-          { text: '👉 Getting Started', link: '/getting-started' },
+          { text: '⛏ Getting Started', link: '/getting-started' },
           {
             text: '🎁 Gift Module',
             collapsed: true,
             items: [
+              { text: '💌 Send Gift', link: '/send-gift' },
+              { text: '🛍️ Recive Gift', link: '/recive-gift' },
+              { text: '🏞️ Gift Cover', link: '/gift-cover' },
               { text: '🏞️ Gift Cover Customize', link: '/gift-cover-custom' },
             ]
           },
@@ -48,7 +51,14 @@ export default defineConfig({
             text: '🏆 Earning Module',
             collapsed: true,
             items: [
-              { text: '🏞️ Gift Cover Customize', link: '/gift-cover-custom' },
+              { text: '🏆 How to Earn Gifts?', link: '/how-to-earn-gifts' },
+            ]
+          },
+          {
+            text: '🤜 Social Module',
+            collapsed: true,
+            items: [
+              { text: '🤜 Invite 𝒇𝒓𝒊𝒆𝒏𝒅𝒔 System', link: '/invite-friends-system' },
             ]
           },
           {
