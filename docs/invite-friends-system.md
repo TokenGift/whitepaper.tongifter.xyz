@@ -10,4 +10,4 @@ When a friend receives the gift again through your sharing, you can receive the 
 
 <img src="/image/invite-friends-system/1733380840680.jpg"  width="200" height="300">
 
-⚠️ Attention: requires several friends to open, you need to pay attention to the rules in each gift sharing prompt.
+**NOTE**: requires several friends to open, you need to pay attention to the rules in each gift sharing prompt.

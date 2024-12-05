@@ -1,4 +1,4 @@
-# 🔶 Deposit
+# 💎 Deposit
 
 TokenGifts deposit integrates Telegram Wallet Pay and supports the popular **_[TON Wallet](#supported-wallets)_**, making it easy for users to start using the app.
 

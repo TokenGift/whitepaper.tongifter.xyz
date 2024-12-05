@@ -1,4 +1,4 @@
-# 🔶 Withdraw
+# 🏧 Withdraw
 
 TokenGifts Withdraw will be made via Telegram Wallet Pay.
 

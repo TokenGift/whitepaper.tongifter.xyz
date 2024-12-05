@@ -22,7 +22,7 @@ export default defineConfig({
         text: 'WHITEPAPER',
         items: [
           { text: '🎉 Overview', link: '/overview' },
-          { text: '⛏ Getting Started', link: '/getting-started' },
+          // { text: '⛏ Getting Started', link: '/getting-started' },
           {
             text: '🎁 Gift Module',
             collapsed: true,
@@ -37,14 +37,14 @@ export default defineConfig({
             text: '💎 Deposit Module',
             collapsed: true,
             items: [
-              { text: '🛑 Deposit', link: '/deposit' },
+              { text: '💎 Deposit', link: '/deposit' },
             ]
           },
           {
             text: '🏧 Withdraw Module',
             collapsed: true,
             items: [
-              { text: '🔶 Withdraw', link: '/withdraw' },
+              { text: '🏧 Withdraw', link: '/withdraw' },
             ]
           },
           {
@@ -59,6 +59,13 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '🤜 Invite 𝒇𝒓𝒊𝒆𝒏𝒅𝒔 System', link: '/invite-friends-system' },
+            ]
+          },
+          {
+            text: '₿ Tokenomic',
+            collapsed: true,
+            items: [
+              { text: '₿ Tokenomic', link: '/tokenomic' },
             ]
           },
           {
