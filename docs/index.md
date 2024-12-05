@@ -2,7 +2,7 @@
 
 **Wellcome to TokenGifts. A Web3 top-level revolution on Telegram!**
 
-![1733284535070](image/introduction/1733284535070.png)
+![1733386475245](image/index/1733386475245.jpg)
 
 ## **What are Token Gifts**?
 
