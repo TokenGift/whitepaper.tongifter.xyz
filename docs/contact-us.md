@@ -1,5 +1,7 @@
 # 🤝 Contact Us
 
+**For all of our updates and to join the conversation, be sure to check out our channels:**
+
 **Official APP:** **_[https://t.me/tokengiftbot/TokenGift](https://t.me/tokengiftbot/TokenGift)_**
 
 **Official Bot:** **_[https://t.me/tokengiftbot](https://t.me/tokengiftbot)_**

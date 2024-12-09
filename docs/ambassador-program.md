@@ -2,6 +2,8 @@
 
 TokenGifts Ambassador Program
 
+![1733716956473](image/ambassador-program/1733716956473.jpg)
+
 ## **Join us and become a TokenGifts Ambassador!**
 
 We invite you to join the TokenGifts Ambassador Programme and work with us to shape the future of the largest Telegram community app. We're looking for enthusiastic, motivated and influential individuals through whom we can promote TokenGifts and work together to drive the growth and expansion of our brand.
