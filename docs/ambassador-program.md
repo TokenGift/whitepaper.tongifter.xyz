@@ -22,9 +22,12 @@ As a TokenGifts Ambassador, you will serve as the face and voice of our brand. Y
 
 By joining our ambassador programme, you will enjoy the following exclusive benefits:
 
-- **Exclusive TokenGifts points**
+- **We will provide 1-10 gifts to the ambassadors, with the total amount of each gift ranging from 10U to 300U. This will be used for promotion and dissemination. Both parties will confirm the final amount before cooperation.**
+- **For friends (level 1) directly invited through your link, you will also receive 5%~10% of the corresponding currency of the friend's gift reward every time the friend receives a gift! (Only friends can open official gifts!) There is no upper limit on the number of invitees and the number of times they can be opened;**
+- **Exclusive TokenGifts points: $TGT**
 - **Access to USDT/TON rewards and commissions**
 - **Access to the Ambassador's TokenGifts account privileges**
+- **More rights are about to be released...**
 
 ## **_Join Us_**
 
@@ -33,6 +36,10 @@ If you are interested in becoming a TokenGifts Ambassador, you are welcome to ap
 **Filling out the application form:** **_[Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf2tHAky9JxyxA71rX8SEKGeG8gRXuAjs3OXm5DZ8Pbjuy94w/viewform?vc=0&c=0&w=1&flr=0&pli=1)_**
 
 We look forward to your joining us in creating a better gift-sharing future!
+
+## **_More Info_**
+
+**_[TokenGifts - Ambassador Program.pdf](files/TokenGifts%20-%20Ambassador%20Program.pdf)_**
 
 ## **_Contact Us_**
 
