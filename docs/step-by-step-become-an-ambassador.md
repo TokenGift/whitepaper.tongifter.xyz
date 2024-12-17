@@ -1,4 +1,4 @@
-# 👥 Step by Step , Become an Ambassador
+# 👣 Step by Step , Become an Ambassador
 
 If you are ready to take on the challenge of the [Ambassador Program](/ambassador-program.html). Congratulations! This section can help you.
 
