@@ -1,4 +1,4 @@
-# 🤝 TG Channel/TG Group Daily Gift
+# ⏰ TG Channel / TG Group Daily Gift
 
 **For all of our updates and to join the conversation, be sure to check out our channels:**
 

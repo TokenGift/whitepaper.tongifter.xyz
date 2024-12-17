@@ -76,6 +76,13 @@ export default defineConfig({
             ]
           },
           {
+            text: '🌐 Community Module',
+            collapsed: true,
+            items: [
+              { text: '⏰ Daily Gift', link: '/daily-gift' },
+            ]
+          },
+          {
             text: '📝 Terms Module',
             collapsed: true,
             // link: '/terms-of-purchase',
