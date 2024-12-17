@@ -1,5 +1,7 @@
 # ⏰ TG Channel Daily Gift
 
+![1734414844078](image/daily-gift/1734414844078.png)
+
 **Improve community activity and make it possible for users to earn more tokens. Therefore, we have added Daily Gifts in the [Official TG Channel](https://t.me/tokengiftnews).**
 
 ## How does it work?
