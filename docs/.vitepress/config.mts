@@ -73,6 +73,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '👥 Ambassador Program', link: '/ambassador-program' },
+              { text: '👥 Step by Step', link: '/step-by-step-become-an-ambassador' },
             ]
           },
           {
