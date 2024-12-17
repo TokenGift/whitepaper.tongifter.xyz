@@ -1,17 +1,22 @@
-# ⏰ TG Channel / TG Group Daily Gift
+# ⏰ TG Channel Daily Gift
 
-**For all of our updates and to join the conversation, be sure to check out our channels:**
+**Improve community activity and make it possible for users to earn more tokens. Therefore, we have added daily gifts in the [Official TG Channel](https://t.me/tokengiftnews).**
 
-**Official APP:** **_[https://t.me/tokengiftbot/TokenGift](https://t.me/tokengiftbot/TokenGift)_**
+## How does it work?
 
-**Official Bot:** **_[https://t.me/tokengiftbot](https://t.me/tokengiftbot)_**
+Every day at 11:00 AM GMT, a random total amount and a random total amount of $USDT **_Daily gifts_** will be generated in the [Official TG Channel](https://t.me/tokengiftnews).
 
-**Official TG Channel:** **_[https://t.me/tokengiftnews](https://t.me/tokengiftnews)_**
+## Influencing factors
 
-**Official TG Group:** **_[https://t.me/tokengiftgroup](https://t.me/tokengiftgroup)_**
+The total amount of **_Daily Gifts_** is directly affected by the total number of subscribers to the TG Channel.
 
-**Official Email:** tokengifts.official@gmail.com
+The more total subscribers, the higher the total amount (automatically increased).
 
-**Official Website:** **_[https://www.tongifter.xyz](https://www.tongifter.xyz)_**
+## Who can receive it?
 
-**Twitter:** **_[https://x.com/TokenGiftsBot](https://x.com/TokenGiftsBot)_**
+Any TG user can receive **_Daily gifts_**.
+
+## Invite and receive again
+
+1. Usually, each user can receive a **_Daily gifts_** once a day.
+2. Each time you invite 2 new users to open it, you can open it again. There is no upper limit on the number of times you can receive.
